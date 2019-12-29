@@ -1,0 +1,10 @@
+/node_modules
+/allure-results
+/reports
+/buildLog.txt
+/package-lock.json
+/test-results.xml
+/.idea
+/.vscode
+/results
+/CD-CI
